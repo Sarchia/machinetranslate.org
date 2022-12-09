@@ -13,9 +13,12 @@ family:
 - slug: indo-european
   name: Indo-European
 supported_apis:
+- id: google
+  name: Google Translate
+  supported_language_count: 133
 - id: microsoft
   name: Microsoft Translator
-  supported_language_count: 103
+  supported_language_count: 110
 - id: niutrans
   name: Niutrans
   supported_language_count: 383
